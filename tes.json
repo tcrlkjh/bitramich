@@ -1,0 +1,33 @@
+{
+"Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+    "title":"Superhero",
+    "image":"https://lh3.googleusercontent.com/7VgABBwmdQ8scsGN_EqiUdX9A2sI5jvJvBRSOpKluli2Vk2Wx5F_AIJXd0jYT0b5fSrPl0zjtIKcJ7Q_XPQ-enuXAP8vCM0Cuw",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.superheroskin"
+  }
+  ]
+}
+    
